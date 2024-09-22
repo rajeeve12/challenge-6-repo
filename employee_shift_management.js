@@ -15,7 +15,12 @@ const employees = [
     };
     //Task 3
     function assignShift() {
-        for(let i <= inventory.length; i++)
+        for(let i <= employees.length; i++)
     console.log("employees.name");
     };
+    //Task 4
+    function calculateTotalHours(product){
+        for(let i = 0, i < employees.length, i++) 
+            return `${employees.shift}`
+    }
     
