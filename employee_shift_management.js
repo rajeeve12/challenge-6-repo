@@ -23,4 +23,9 @@ const employees = [
         for(let i = 0, i < employees.length, i++) 
             return `${employees.shift}`
     }
+    //Task 5
+    function listAvailableEmployees(product){
+        const input = employees.day == "Monday"||"Tuesday"||"Wednesday"||"Thursday"||"Friday";
+        return `${employees.day} `
+    }
     
