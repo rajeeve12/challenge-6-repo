@@ -13,4 +13,9 @@ const employees = [
         const status = employees.hours <= employees.day ? "name":"day"
         return `{employees.name} is {status}`
     };
+    //Task 3
+    function assignShift() {
+        for(let i <= inventory.length; i++)
+    console.log("employees.name");
+    };
     
